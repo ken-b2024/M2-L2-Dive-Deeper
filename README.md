@@ -1,3 +1,3 @@
 Author: Kenneth Brown
 
-Module 2 / Lesson 2 / Divee Deeper Assignment
+Module 2 / Lesson 2 / Dive Deeper Assignment
